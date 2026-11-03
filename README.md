@@ -50,8 +50,8 @@ attendance.exe
 ## Example Output
 
 ```text
-Enter the number of classes conducted: 50
-Enter the number of classes attended: 40
+Enter the number of classes conducted:: 50
+Enter the number of classes attended:: 40
 Eligible for Exams with 80.00%
 ```
 
